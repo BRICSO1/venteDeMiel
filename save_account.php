@@ -1,5 +1,5 @@
 <?php
-include("functionalities/database_functions.php");
+include("connexion.php");
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $username = $_POST['username'];

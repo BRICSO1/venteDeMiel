@@ -1,0 +1,11 @@
+.produit{
+    image-resolution: 5%;
+}
+/* méthode pour savoir si le css fonctionne */
+/* body{
+    background-color: black;
+} */
+footer{
+    position:sticky;
+    bottom: 0;
+}

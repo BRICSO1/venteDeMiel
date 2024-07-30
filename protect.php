@@ -1,6 +1,6 @@
 <?php
 session_start();
-include(__DIR__ . '/../config/database.config.php');
+include(__DIR__ . '/connexion.php');
 // var_dump($_SESSION);
 if (!empty($_SESSION['username'])) {
     echo ("bienvenue {$_SESSION['username']} !<br>");
