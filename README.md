@@ -1,1 +1,1 @@
-Ce site est un site commericial destiné à la vente de miel. 
+Ce site est un site commericial destiné à la vente de miel. (projet en pause)
